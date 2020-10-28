@@ -1,7 +1,6 @@
 import React from "react"
 import styled from "styled-components"
 import Navbar from "../components/navbar"
-import { TransitionProvider, TransitionViews } from "gatsby-plugin-transitions"
 
 const BaseDiv = styled.div`
   margin: 3rem auto;
